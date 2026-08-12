@@ -1,0 +1,12 @@
+{
+  "name": "event-emitter-system",
+  "version": "1.0.0",
+  "main": "eventEmitter.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "test:coverage": "jest --coverage --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
