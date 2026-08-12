@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "${DB_HOST}",
+    "port": "${DB_PORT}",
+    "name": "myapp_${NODE_ENV}"
+  },
+  "app": {
+    "name": "Demo App",
+    "debug": true
+  }
+}
