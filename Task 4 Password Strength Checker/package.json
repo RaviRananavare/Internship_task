@@ -1,0 +1,16 @@
+{
+  "name": "password-strength-checker",
+  "version": "1.0.0",
+  "description": "Password strength checker",
+  "main": "passwordStrength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
